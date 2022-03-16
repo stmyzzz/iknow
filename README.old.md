@@ -1,2 +1,0 @@
-# iknow
-about tensorflow.js
